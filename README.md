@@ -15,3 +15,10 @@ Click [here](https://github.com/zuverliebt/Discord.js-Bot-Template/releases/down
 ## Create Slash Commands
 - Create a new file in `Template/commands` and copy the content from `ping.js` into the file. Then adapt the file to the new command and enter node `./register.js` in the console
 - It can take a while until the Slash command is displayed on Discord.
+
+## Invite the Bot
+1. Go to https://discord.com/developers/applications
+2. Click on your application & click on OAuth2 in the navigation
+3. Choose this: 
+<img src="https://cdn.discordapp.com/attachments/876179963823415368/906271417111306240/Screenshot_2021-11-05_205705.png" alt="Get Involed with Perfect!" width="725" />
+4. Click on Copy and open the link
