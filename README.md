@@ -1,7 +1,7 @@
 # Discord.js Bot Template
 
 Here is a free Discord.js v13 bot template
-Click here to download the template folder.
+Click [here](https://github.com/zuverliebt/Discord.js-Bot-Template/releases/download/1.0.0/Template.zip) to download the template folder.
 
 ## Required
 - Discord.js v13
