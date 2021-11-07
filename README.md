@@ -23,5 +23,5 @@ Click [here](https://github.com/zuverliebt/Discord.js-Bot-Template/releases/down
 <img src="https://cdn.discordapp.com/attachments/876179963823415368/906271417111306240/Screenshot_2021-11-05_205705.png" alt="Get Involed with Perfect!" width="725" />
 4. Click on Copy and open the link
 
-##Add More Commands
-- 
+## Add More Commands
+- Check out [this](https://github.com/zuverliebt/Discord.js-Template-Commands) repositorie
