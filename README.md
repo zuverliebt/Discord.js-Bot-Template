@@ -5,7 +5,7 @@ Click [here](https://github.com/zuverliebt/Discord.js-Bot-Template/releases/down
 
 ## Required
 - Discord.js v13
-- Node.js latest version
+- Node.js
 
 ## How do I use it?
 1. Setup the `config.json` (Token & ClientID)
